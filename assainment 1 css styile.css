@@ -363,6 +363,8 @@ color: #f5f7fa;
   
 .copyright{
   margin-top:16px;
+  position:relative;
+  bottom:100px;
 }
 
 .copyright hr {
