@@ -20,8 +20,9 @@ color: white;
   align-items: center;
   justify-content: center;
   gap: 8px;
-padding: 12px 16px;
-border: 1px solid  #469165;
+  border: 1px solid #469165;
+    margin-right: 15px;
+
 }
 
 .btn-default{
@@ -365,9 +366,8 @@ color: #f5f7fa;
   margin-top:16px;
 }
 
-.copyright hr {
-margin: 15px 0;
-}
+
+
 
 
 
